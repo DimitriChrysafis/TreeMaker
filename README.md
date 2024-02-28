@@ -1,4 +1,4 @@
-## Put your project in someplace safe and warm
+## How to install (after you put your project in someplace safe and warm)
 ### For Windows
 
 ```bash
