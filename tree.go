@@ -159,7 +159,7 @@ func displayTree(node *Node, prefix string) {
 	}
 
 	fmt.Print(prefix)
-	fmt.Println(" |--", node.Data)
+	fmt.Println(" |—-", node.Data)
 
 	if node.Left != nil {
 		displayTree(node.Left, prefix+"        ")
