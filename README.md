@@ -2,7 +2,7 @@
 ## what this is
 This is a playground which makes trees of your desired depth.
 Sample graph:
-
+```
                          |-- 12
                  |-- 8
                          |-- 11
@@ -19,6 +19,7 @@ Sample graph:
                  |-- 1
                          |-- 3
 
+```
 
 
 
