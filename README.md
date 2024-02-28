@@ -1,3 +1,6 @@
+# my first go project
+
+
 ## How to install (after you put your project in someplace safe and warm)
 ### For Windows
 
