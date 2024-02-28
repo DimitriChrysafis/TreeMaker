@@ -42,7 +42,7 @@ Your tree:
                          |-- 10
                  |-- 7
                          |-- 9
- |-- 1
+ |-ROOT 1
                          |-- 6
                  |-- 2
                                  |-- 13
@@ -53,3 +53,5 @@ Your tree:
                          |-- 3
 
 ```
+
+yes the graph is bad i dont care
