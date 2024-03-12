@@ -103,7 +103,7 @@ func saveGraphTextRecursive(file *os.File, node *Node, prefix string) {
 }
 
 func saveGraphDOT(root *Node) {
-	// Code for saving DOT file...
+	// i forgot 
 }
 
 func findNode(node *Node, data int) *Node {
